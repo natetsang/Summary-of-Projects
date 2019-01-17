@@ -1,5 +1,5 @@
 # Summary of my projects
-Below are brief descriptions and links to a selection of data science and optimization projects that I've completed.
+Below are brief descriptions and links to a selection of data science and optimization projects that I've completed. Some of these are personal projects, while others were completed as part of my coursework at UC Berkeley.
 
 <b>1. Image classifier </b> https://github.com/natetsang/image-classification-ML
 
