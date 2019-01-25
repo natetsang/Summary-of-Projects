@@ -3,7 +3,7 @@ Below are brief descriptions and links to a selection of data science and optimi
 
 <b>1. Building an image classifier from scratch </b> https://github.com/natetsang/image-classification-ML
 
-In this project, I develop an image classifier in Python from a dataset of roughly 1500 images in 20 categories. I identify over 15 key features and explore several ML models including logistic regression, KNN, SVM, and random forest. The performance of each model was assessed by testing on a separate zipfile of images. Test results indicate that models were roughly X% accurate, which is reasonable given only traditional ML models were used.
+In this project, I develop an image classifier in Python from a dataset of roughly 1500 images in 20 categories. I identify over 15 key features and explore several ML models including logistic regression, KNN, SVM, and random forest. The performance of each model was assessed by testing on a separate zipfile of images. Test results indicate that models were roughly 35-40% accurate, which is reasonable given only traditional ML models were used.
 
 <b>2. Dynamic programming for optimal battery use in PHEVs </b> https://github.com/natetsang/optimizing-PHEV-battery-use
 
