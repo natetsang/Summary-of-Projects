@@ -11,6 +11,10 @@ In this project, I develop an image classifier in Python from a dataset of rough
 
 Plug-in hybrid electric vehicles (PHEVs) utilize conventional fuel and an electric battery for propulsion. To maximize fuel efficiency, an energy management system can optimally control when to utilize the battery and how much power it should deliver. In this project, I utilize dynamic programming to optimally schedule battery usage for a PHEV vehicle undergoing an EPA emissions test cycle. I also test the impact of the battery's state of charge on total fuel consumption.
 
-<b>2. Using ML to improve simulation time of airplane wings </b> https://github.com/natetsang/airplane-wing-design
+<b>3. Analysis of MLB data </b> https://github.com/natetsang/baseball-analytics
+
+In this project, I seek to achieve two tasks. First, I analyze a dataset with limited features to determine the top 15 baseball players. Second, I develop a grading algorithm to quantify the quality of pitches. In complete both of these tasks without using ML techniques. Instead, I constrain myself to traditional analytical methods.
+
+<b>4. Using ML to improve simulation time of airplane wings </b> https://github.com/natetsang/airplane-wing-design
 
 The design of airplane wings (i.e. airfoils) typically involves building thousands and thousands of computational fluid dynamics (CFD) models, which can take hours. To drastically reduce simulation time, this project attempts an novel design process. Instead of running 60,000 CFD simulations, I run 1,000 - 10,000 simulations and then utilize ML to approximate the rest. Using a hybrid approach, runtime was reduced from hours to minutes, and accuracy (w.r.t. CFD modeling) was maintained.
